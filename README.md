@@ -1,5 +1,4 @@
 # hello-world
-trying this tutorial thing for github
 
 So this would make an alternative for the original readme file.
 Feels like a great update. Can't wait for it to go live.
